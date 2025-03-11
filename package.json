@@ -32,7 +32,7 @@
     "type": "modules",
     "jsSrcsDir": ".",
     "android": {
-      "javaPackageName": "com.github.divvi.RNExitApp"
+      "javaPackageName": "com.github.wumke.RNExitApp"
     }
   }
 }
